@@ -1,6 +1,6 @@
 {
   "name": "kelvinjs-btc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "kelvinjs-btc",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -32,7 +32,7 @@
     "@types/secp256k1": "^3.5.0",
     "chai": "^4.2.0",
     "cross-env": "^6.0.0",
-    "kelvinjs-usbhid": "git+https://github.com/KelvinWallet/kelvinjs-usbhid.git#v1.0.1",
+    "kelvinjs-usbhid": "git+https://github.com/KelvinWallet/kelvinjs-usbhid.git#v1.0.3",
     "mocha": "^6.2.0",
     "rimraf": "^3.0.0",
     "ts-node": "^8.4.1",
