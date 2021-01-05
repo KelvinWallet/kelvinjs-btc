@@ -16,7 +16,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "axios": "0.19.0",
+    "axios": "0.21.1",
     "bignumber.js": "9.0.0",
     "bitcoinjs-lib": "5.1.6",
     "coinselect": "git+https://github.com/CoinbaseWallet/coinselect.git#b3c487a42e4a1c0b2ed539aa2f38c64411e5651b",
